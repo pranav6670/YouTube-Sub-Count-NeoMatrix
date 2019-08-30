@@ -14,4 +14,7 @@ Steps:[https://www.slickremix.com/docs/get-api-key-for-youtube/]
 MusicEngine[https://github.com/maxint-rd/ESP-MusicEngine]
 SNTPTime[https://github.com/SensorsIot/SNTPtime]
 
-<img src="images/IMG-5317.JPG"/>
+<img src="images/IMG-2079.JPG"/>
+<img src="images/IMG-2081.JPG"/>
+<img src="images/IMG-2084.JPG"/>
+
