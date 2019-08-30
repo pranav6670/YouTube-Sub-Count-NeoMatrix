@@ -1,6 +1,9 @@
 # YouTube-Sub-Count-NeoMatrix
 YouTube Subscriber count using NodeMCU(ESP8266) and NeoMatrix.
 
+Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbdCh63_ZQk?rel=0&amp;controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1.Get Esp board link and install the board in the boards manager of Arduino IDE.
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
